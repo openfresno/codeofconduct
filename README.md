@@ -1,4 +1,4 @@
-codeofconduct
+### codeofconduct
 __________________________________________________________________________________________________
 Code for America's Code of Conduct
 The Code for America community expects that Code for America network activities, events, and digital forums:
@@ -18,15 +18,15 @@ The Code for America community expects that Code for America network activities,
 
 Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
 
-Code for America's Anti-Harassment Policy
+##### Code for America's Anti-Harassment Policy
 
-This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+This anti-harassment policy is based on [the example policy](https://geekfeminism.wikia.org/wiki/Conference_anti-harassment/Policy) from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
 This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
-
+______________________________________________________________________________
 All Code for America network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
-In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, see this guide.
+In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, [see this guide.](https://docs.google.com/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit)
 
 Code for America is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may be expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
 
