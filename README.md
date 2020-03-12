@@ -1,6 +1,7 @@
 ### codeofconduct
 __________________________________________________________________________________________________
-Code for America's Code of Conduct
+#### Code for America's Code of Conduct
+
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
