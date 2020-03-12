@@ -15,9 +15,11 @@ The Code for America community expects that Code for America network activities,
 10. Actively involve community groups and those with subject matter expertise in the decision-making process.
 11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 12. Provide an environment where people are free from discrimination or harassment.
-13. Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
+
+Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
 
 Code for America's Anti-Harassment Policy
+
 This anti-harassment policy is based on the example policy from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
 This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
